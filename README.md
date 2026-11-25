@@ -1,12 +1,6 @@
 
-<h1 align="center">Ali Elhadidy</h1>
-
-<h3 align="center">
-Senior Flutter Developer | Senior Mobile Engineer
-</h3>
-
 <p align="center">
-Software Architecture • Technical Leadership • AI-Assisted Software Engineering • Technical Project Management
+  <img src="./banner.png" alt="Ali Elhadidy | Senior Flutter Developer | Senior Mobile Engineer" width="100%"/>
 </p>
 
 <p align="center">
